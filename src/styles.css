@@ -1,0 +1,19 @@
+#red {
+  background-color: red;
+  height: 400px;
+}
+#yellow {
+  background-color: yellow;
+  height: 400px;
+}
+#green {
+  background-color: green;
+  height: 400px;
+}
+#main {
+  height: 500px;
+  overflow:scroll;
+}
+.myStyle{
+border-radius: 50%;
+}
